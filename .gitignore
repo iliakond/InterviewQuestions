@@ -1,0 +1,14 @@
+.idea/
+target/
+atlassian-ide-plugin.xml
+
+*.iml
+*.ipr
+*.iws
+
+*.log
+.classpath
+
+effective.pom
+pom.xml.releaseBackup
+release.properties
